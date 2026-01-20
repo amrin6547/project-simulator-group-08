@@ -1,21 +1,8 @@
-"# Implemented Features"
-
-\## T-2: Property Details View
-
-\*Developer:\* Abir Ahosan Ratul
-
-\*Status:\* Implemented
-
-\*Description:\*
-
-\- Allows buyers to click on a property to view full details.
-
-\- Displays price, description, and seller information.
-
-\- Test Case ID: TC\_18
-
-3\. Commit \& Push
-"# Implemented Features" 
-## T-03: Implement Search Functionality
-This task involves creating a search functionality using name, category or type.
-
+## T-19: Admin User Search
+**Developer:** Abdullah Al Noman
+**Status:** Implemented
+**Description:**
+- Admins can filter the user list by Name or Email.
+- Real-time search results.
+- "Clear Search" button resets the list.
+- Test Case ID: T_6
