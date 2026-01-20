@@ -15,3 +15,7 @@
 - The wishlist refreshes instantly to show the updated list.
 - Validates that the property existed before removal.
 - Test Case ID: TC_18
+"## T-04: Add Property"  
+"This feature allows a seller to add a property listing by providing required details such as tittle, address, price, category, type, description and uploading an image." 
+"**Status: Implemented**" 
+"" 
